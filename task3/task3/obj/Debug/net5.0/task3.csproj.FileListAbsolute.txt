@@ -1,0 +1,16 @@
+C:\Users\turalhi\Desktop\HomeWorks\HomeWork2205\task33\task3\task3\bin\Debug\net5.0\task3.exe
+C:\Users\turalhi\Desktop\HomeWorks\HomeWork2205\task33\task3\task3\bin\Debug\net5.0\task3.deps.json
+C:\Users\turalhi\Desktop\HomeWorks\HomeWork2205\task33\task3\task3\bin\Debug\net5.0\task3.runtimeconfig.json
+C:\Users\turalhi\Desktop\HomeWorks\HomeWork2205\task33\task3\task3\bin\Debug\net5.0\task3.runtimeconfig.dev.json
+C:\Users\turalhi\Desktop\HomeWorks\HomeWork2205\task33\task3\task3\bin\Debug\net5.0\task3.dll
+C:\Users\turalhi\Desktop\HomeWorks\HomeWork2205\task33\task3\task3\bin\Debug\net5.0\ref\task3.dll
+C:\Users\turalhi\Desktop\HomeWorks\HomeWork2205\task33\task3\task3\bin\Debug\net5.0\task3.pdb
+C:\Users\turalhi\Desktop\HomeWorks\HomeWork2205\task33\task3\task3\obj\Debug\net5.0\task3.csproj.AssemblyReference.cache
+C:\Users\turalhi\Desktop\HomeWorks\HomeWork2205\task33\task3\task3\obj\Debug\net5.0\task3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\turalhi\Desktop\HomeWorks\HomeWork2205\task33\task3\task3\obj\Debug\net5.0\task3.AssemblyInfoInputs.cache
+C:\Users\turalhi\Desktop\HomeWorks\HomeWork2205\task33\task3\task3\obj\Debug\net5.0\task3.AssemblyInfo.cs
+C:\Users\turalhi\Desktop\HomeWorks\HomeWork2205\task33\task3\task3\obj\Debug\net5.0\task3.csproj.CoreCompileInputs.cache
+C:\Users\turalhi\Desktop\HomeWorks\HomeWork2205\task33\task3\task3\obj\Debug\net5.0\task3.dll
+C:\Users\turalhi\Desktop\HomeWorks\HomeWork2205\task33\task3\task3\obj\Debug\net5.0\ref\task3.dll
+C:\Users\turalhi\Desktop\HomeWorks\HomeWork2205\task33\task3\task3\obj\Debug\net5.0\task3.pdb
+C:\Users\turalhi\Desktop\HomeWorks\HomeWork2205\task33\task3\task3\obj\Debug\net5.0\task3.genruntimeconfig.cache
